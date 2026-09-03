@@ -12,3 +12,4 @@ while (respuesta === true) {
 }
 
 alert(`El total de su compra es: ${totalCompra}`);
+
